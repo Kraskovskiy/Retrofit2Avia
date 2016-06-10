@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrofit2Avia</string>
+    <string name="action_settings">Settings</string>
+    <string name="airAround">Ближайшие Аэропорты</string>
+    <string name="fromCityDest">Популярные направления из города</string>
+    <string name="price_usd">Price(USD):</string>
+    <string name="txtLoadDataToast">"Загрузка данных для: "</string>
+    <string name="airportName">"Название Аэропорта: %1$s"</string>
+    <string name="iata">"Iata: %1$s"</string>
+    <string name="place">"Расположение: %1$s"</string>
+</resources>
